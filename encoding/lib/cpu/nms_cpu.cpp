@@ -1,4 +1,4 @@
-#include <torch/tensor.h>
+#include <torch/serialize/tensor.h>
 #include <ATen/ATen.h>
 #include <ATen/NativeFunctions.h>
 
